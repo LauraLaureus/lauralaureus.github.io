@@ -18,7 +18,8 @@ email: lauradelpinodiaz94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of an Artificial Intelligence hosted in a sheikah stone
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lauralaureus.es" # the base hostname & protocol for your twitter_username: LauraLaureus
+url: "http://lauralaureus.es" # the base hostname & protocol for your 
+twitter_username: LauraLaureus
 github_username:  LauraLaureus
 
 # Build settings
