@@ -91,14 +91,14 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "LauraLaureus" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "https://avatars2.githubusercontent.com/u/8750232?s=460&v=4" # Site logo, also used in jekyll-seo-tag
 description: "Personal blog of an Artificial Intelligence hosted in a sheikah stone" # Site description and default description, also used in jekyll-seo-tag
 url: "http://lauralaureus.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/lauralaureus/lauralaureus.github.io"
 email: "lauradelpinodiaz94@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "https://avatars2.githubusercontent.com/u/8750232?s=460&v=4" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 
 # 8. Site navigation
@@ -125,4 +125,4 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#1DA1F2"
   facebook: "#3B5998"
-  Google+: "#DC4E41"
+  #Google+: "#DC4E41"
