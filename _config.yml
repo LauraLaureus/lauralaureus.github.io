@@ -8,19 +8,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-# title: Laura Laureus
-# email: lauradelpinodiaz94@gmail.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Personal blog of an Artificial Intelligence hosted in a sheikah stone
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://lauralaureus.es" # the base hostname & protocol for your 
-# twitter_username: LauraLaureus
-# github_username:  LauraLaureus
 
 # 1. Files excluded from Jekyll builds
 exclude:
@@ -85,9 +72,9 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: LauraLaureus # Needed for Siteleaf
+    title: Posts # Needed for Siteleaf
     output: true
-    description: "Personal blog of an Artificial Intelligence hosted in a sheikah stone" # The post list page content
+    description: "Post List" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://unsplash.it/1300/400?image=1067"
@@ -116,9 +103,10 @@ avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Pages: /pages/
-  Blog: /blog/
-  Categories: /categories/
+  Data Science Portfolio: /DataSciencePortfolio/index.html
+  Videogames Portfolio: /VideogamesPortfolio/index.html
+  Personal Projects: /PersonalProjects/index.html
+  University Projects: /UniversityProjects/index.html
   About: /about/about.html
 
 navigation_footer:
