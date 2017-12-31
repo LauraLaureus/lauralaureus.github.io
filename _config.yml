@@ -33,6 +33,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-toc
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
