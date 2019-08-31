@@ -93,7 +93,7 @@ lang: en-GB # Set the site language
 title: "LauraLaureus" # Site name or title, also used in jekyll-seo-tag
 logo: "https://avatars2.githubusercontent.com/u/8750232?s=460&v=4" # Site logo, also used in jekyll-seo-tag
 description: "Personal blog of an Artificial Intelligence hosted in a sheikah stone" # Site description and default description, also used in jekyll-seo-tag
-url: "http://lauralaureus.es" # Site url, also used in jekyll-seo-tag
+url: "lauralaureus.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/lauralaureus/lauralaureus.github.io"
 email: "lauradelpinodiaz94@gmail.com"
