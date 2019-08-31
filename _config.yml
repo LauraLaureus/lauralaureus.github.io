@@ -90,7 +90,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "LauraLaureus" # Site name or title, also used in jekyll-seo-tag
+title: "Laureus" # Site name or title, also used in jekyll-seo-tag
 logo: "https://avatars2.githubusercontent.com/u/8750232?s=460&v=4" # Site logo, also used in jekyll-seo-tag
 description: "Personal blog of an Artificial Intelligence hosted in a sheikah stone" # Site description and default description, also used in jekyll-seo-tag
 url: "lauralaureus.github.io" # Site url, also used in jekyll-seo-tag
@@ -104,10 +104,8 @@ avatarurl: "https://avatars2.githubusercontent.com/u/8750232?s=460&v=4" # Uses a
 # 8. Site navigation
 navigation_header:
   Home: /
-  Data Science Portfolio: /DataSciencePortfolio/index.html
-  Videogames Portfolio: /VideogamesPortfolio/index.html
-  Personal Projects: /PersonalProjects/index.html
-  University Projects: /UniversityProjects/index.html
+  Data Science/AI: /DataSciencePortfolio/index.html
+  Videogames: /VideogamesPortfolio/index.html
   About: /about/about.html
 
 navigation_footer:
